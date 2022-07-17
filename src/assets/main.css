@@ -1,0 +1,30 @@
+@import "./base.css";
+
+body {
+  height: 100vh;
+  font-weight: 900;
+  background: linear-gradient(45deg, #10D2E5, #6F2480);
+}
+
+#app {
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  margin: 10px;
+  width: 100%;
+  padding: 15px;
+  border-radius: 20px;
+  text-align: center;
+  background: rgba(129, 226, 230, 0.4);
+}
+
+@media screen and (min-width: 819px) {
+  .wrapper {
+    width: 70%;
+  }
+}
