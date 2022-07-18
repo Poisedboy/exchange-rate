@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkexchange_rate"]=self["webpackChunkexchange_rate"]||[]).push([[339],{744:(e,n)=>{n.Z=(e,n)=>{const t=e.__vccOpts||e;for(const[a,s]of n)t[a]=s;return t}},339:(e,n,t)=>{t.r(n),t.d(n,{default:()=>i});var a=t(252);const s={class:"about"},c=(0,a._)("h1",null,"This is an about page",-1),r=[c];function u(e,n){return(0,a.wg)(),(0,a.iD)("div",s,r)}var o=t(744);const h={},f=(0,o.Z)(h,[["render",u]]),i=f}}]);
+//# sourceMappingURL=339.dd27e554.js.map
