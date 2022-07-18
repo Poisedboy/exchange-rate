@@ -3,11 +3,16 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview --port 4173"
+    "build": "vue-cli-service build",
+    "preview": "vite preview --port 4173",
+    "start": "node server.js",
+    "serve": "vue-cli-service serve"
   },
   "dependencies": {
+    "@vue/cli": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "axios": "^0.27.2",
+    "express": "^4.18.1",
     "pinia": "^2.0.14",
     "travis": "^0.1.1",
     "vue": "^3.2.37",
